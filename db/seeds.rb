@@ -5,3 +5,12 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+# User.create(first_name: 'Norah', last_name: 'Taylor', hometown: 'Dade City', password_digest: )
+
+# usr = User.create(username: "cheetochester", password: "Ch33zy$", password_confirmation: "Ch33zy$")
+
+# places = Place.create([{city: "Tampa", country: "United States of America"}, {city: "Bangkok", country: "Thailand"}])
+
+# Experience.create(user_id: 1, place_id: 1, rating: 3, food_eaten: "fish", date_traveled: "June 10th")
